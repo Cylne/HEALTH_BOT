@@ -70,6 +70,8 @@ python bot.py
 
 ## 📸 Tampilan Bot (Mockup)
 
+![Image](https://github.com/user-attachments/assets/df052b9e-9b83-4493-8a14-639d6c72598e)
+
 **Menu Utama:**
 
 ```
