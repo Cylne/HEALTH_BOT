@@ -37,7 +37,7 @@
 1. **Clone repository**
 
 ```bash
-git clone https://github.com/username/HealthBot.git
+git clone https://github.com/Cylne/HEALTH_BOT.git
 cd HealthBot
 ```
 
